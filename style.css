@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  text-align: center;
+  padding: 30px;
+}
+#realtime {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
